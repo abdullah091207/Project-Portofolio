@@ -75,7 +75,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     <!-- BUTTON -->
     <div class="buttons">
 
-        <a href="https://wa.me/<?= $whatsapp ?>" target="_blank"
+        <a href="https://wa.me/6281235552253<?= $whatsapp ?>" target="_blank"
         class="btn whatsapp">
             <i class="fa-brands fa-whatsapp"></i>
             WhatsApp Me
