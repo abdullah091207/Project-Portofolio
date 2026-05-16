@@ -56,7 +56,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 
 ```
 <div class="hero-image">
-    <img src="images/profile.jpg" alt="">
+    <img src="bdull.jpg" alt="">
 </div>
 
 <div class="hero-text">
@@ -81,7 +81,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
             WhatsApp Me
         </a>
 
-        <a href="#" class="btn contact">
+        <a href="6281235552253" class="btn contact">
             Get In Touch
         </a>
 
